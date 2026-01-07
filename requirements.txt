@@ -1,0 +1,7 @@
+flask
+pandas
+python-dotenv
+waitress
+# add langchain / langchain-openai as needed for your project
+langchain
+openai
